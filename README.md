@@ -1,5 +1,6 @@
 # telegram-bot-java
 **Telegram Chat Bot using Java Spring Boot**
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2355AAFF&lines=TELEGRAM-CHAT-BOT-SPRINGBOOT)](https://git.io/typing-svg)
 
 This project implements a Telegram chat bot using Java Spring Boot, allowing users to anonymously submit complaints to a manager's Telegram account. The bot provides a simple interface for users to initiate a complaint, specify details, and submit it. Here's a brief overview:
